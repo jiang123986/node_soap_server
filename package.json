@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "soap": "^0.23.0",
+    "soap-server": "^0.1.0"
+  }
+}
